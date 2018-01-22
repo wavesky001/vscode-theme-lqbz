@@ -1,2 +1,4 @@
 # vscode-theme-lqbz
-Self-serving theme, maybe a mixture.
+
+2018-01-22: Self-serving theme, maybe a mixture.
+
